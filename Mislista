@@ -1,0 +1,62 @@
+EXTM3U
+
+
+#EXTINF: -1 , Moviestarf1
+http://31.220.41.87:8081/.../es-moviestarf1.../playlist.m3u8
+
+#EXTINF: -1 , SYFY
+http://31.220.41.87:8081/live/es-syfy.stream/playlist.m3u8
+
+#EXTINF: -1 , Eurosport1
+http://31.220.41.87:8081/.../es-eurosport1.../playlist.m3u8
+
+#EXTINF: -1 , Eurosport2
+http://31.220.41.87:8081/.../es-eurosport2.../playlist.m3u8
+
+#EXTINF: -1, Bein La Liga
+http://31.220.41.87:8081/.../bein-laliga.../playlist.m3u8
+
+#EXTINF: -1, dmax
+http://31.220.41.87:8081/live/dmax.stream/playlist.m3u8
+
+#EXTINF: -1, es-Hollywood
+http://31.220.41.87:8081/.../es-hollywood.../playlist.m3u8
+
+#EXTINF: -1, LA 1
+http://31.220.41.87:8081/live/es-la1.stream/playlist.m3u8
+
+#EXTINF: -1, Golf
+http://31.220.41.87:8081/live/golf.stream/playlist.m3u8
+
+#EXTINF: -1, Sport TV 1
+http://sportsbar.pw/lba/ODg5ZjMyOGE0ZGJiNzZjN2YzNDA3Nzk5ZWE1NjE4NmY=/g1/SportTV1.m3u8
+
+#EXTINF: -1, Sport TV 1 Option 2
+http://www.skype.tvzune.org/hls/sporttv1.m3u8
+
+#EXTINF: -1, Sport TV 2
+http://www.skype.tvzune.org/hls/sporttv2.m3u8
+
+#EXTINF: -1, Sport TV 2 Option 2
+http://199.115.117.93:1935/record/CH109_Big/SPORTTV2.m3u8
+
+#EXTINF: -1, Sport TV 3
+http://sportsbar.pw/lba/ODg5ZjMyOGE0ZGJiNzZjN2YzNDA3Nzk5ZWE1NjE4NmY=/g3/SportTV3.m3u8
+
+#EXTINF: -1, Sport TV 3 Option 2
+http://www.skype.tvzune.org/hls/sporttv3.m3u8
+
+#EXTINF: -1, Sport TV LIVE
+http://www.skype.tvzune.org/hls/sporttvlive.m3u8
+
+#EXTINF: -1, CHV
+http://mi.chv.cl/playlist/stream.m3u8?s=hd
+
+#EXTINF: -1, TUDN
+https://blackghost.live/play/totalp1-900.php?c=174&p=3&k=black&f=.m3u8
+
+#EXTINF: -1, NOVA SPORTS
+http://81.201.52.159:8023
+
+#EXTINF: -1, TELEVICENTRO 5 HONDURAS
+https://trinity-lh.akamaihd.net/i/TelevicentroLive2_d@508538/master.m3u8
